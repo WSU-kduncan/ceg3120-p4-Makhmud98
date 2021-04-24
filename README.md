@@ -3,8 +3,8 @@
 # Project 4 - ReadMe File - Using ECR
 
 - how you installed docker + dependencies (WSL2, for example)
-sudo apt-get update
-sudo apt install docker.io
+* sudo apt-get update
+* sudo apt install docker.io
 
 Download : Dependencies - > sudo apt-get install apt-transport-https ca-certificates curl software-properties-common
 
